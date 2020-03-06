@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    height: 50px;
+}
+
+body {
+    font-weight: bold;
+    color: #fff;
+    font-size: 30px;
+}
+
+.wrap{
+    margin: 0 auto;
+}
+
+.wrap #content{
+    line-height: 50px;
+    text-align: center;
+    background: rgba(0, 0, 0, .6);
+}

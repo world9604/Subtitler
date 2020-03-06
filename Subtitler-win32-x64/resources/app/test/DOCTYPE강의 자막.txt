@@ -1,0 +1,33 @@
+1. The creator of HTML is Tim Berners-lee.
+1. HTML의 창시자는 팀버너스리 입니다. (Tim Berners-Lee)
+2. W3C
+W3C International Organization is an organization that systematically manages HTML.
+W3C 국제 기구는 HTML을 체계적으로 관리하는 기관 입니다.
+The W3C International Organization is an organization that sets the standard for HTML.
+W3C 국제 기구는 HTML의 표준을 정하는 기관 입니다.
+Timbernery is the president of the W3C International Organization.
+팀버너스리는 W3C 국제 기구의 의장 입니다.
+1. The creator of HTML is Tim Berners-lee.
+1. HTML의 창시자는 팀버너스리 입니다. (Tim Berners-Lee)
+2. W3C
+W3C International Organization is an organization that systematically manages HTML.
+W3C 국제 기구는 HTML을 체계적으로 관리하는 기관 입니다.
+The W3C International Organization is an organization that sets the standard for HTML.
+W3C 국제 기구는 HTML의 표준을 정하는 기관 입니다.
+Timbernery is the president of the W3C International Organization.
+팀버너스리는 W3C 국제 기구의 의장 입니다. 
+There are several DOCTYPE tags in every HTML standard.
+HTML 표준 마다 여러 가지의 DOCTYPE 태그들이 존재 합니다.
+We use only the <!DOCTYPE html> tag because we work on the latest standard, HTML5.
+그 중에서도 우리는 가장 최신 표준인 HTML5을 기준으로 작업을 하기 때문에 
+<!DOCTYPE html> 태그 만을 사용 합니다.
+HTML tags have different tags.
+HTML 태그는 다양한 태그들이 존재 합니다.
+We can't remember all these tags.
+우리는 이 태그들을 모두 기억 할 수 없습니다.
+So when you can't think of the tags you need,
+​따라서 필요한 태그들이 생각이 나지 않을 때는,
+You can find the tags you need from the 'https://www.w3schools.com/ ' website.
+'https://www.w3schools.com/ '라는 웹 사이트에서 필요한 태그를 찾아 볼 수 있습니다.
+But roughly, it's much easier to find when you know which tags exist.
+​하지만 대략적으로 어떤 태그들이 존재하는지 알아야 찾아보기 훨씬 수월 합니다. 
